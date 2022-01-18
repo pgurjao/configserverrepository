@@ -21,4 +21,4 @@ Veja o <b>`swagger`</b> desses serviços [aqui](https://github.com/pgurjao/heroi
 
 ## Conteúdo deste repositório
 
-Este repositório apenas hospeda os arquivos de configuração a ser distribuído pelo [ConfigServer](https://github.com/pgurjao/configserver-microsservico) para os microsserviços.
+Este repositório apenas hospeda os arquivos de configuração a ser distribuído pelo [ConfigServer](https://github.com/pgurjao/configserver-microsservico) para os microsserviços listados acima.
